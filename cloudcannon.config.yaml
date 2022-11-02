@@ -1,0 +1,7 @@
+collections_config:
+  authors:
+    path: data/authors
+    output: false
+  blog:
+    path: data/blog
+    output: true
